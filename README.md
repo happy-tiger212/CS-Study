@@ -21,7 +21,7 @@
 |:-----:|:-----:|:-----:|
 |박서윤(팀장)|https://velog.io/@tiger|https://github.com/happy-tiger212|
 |김도연|https://velog.io/@kdy9kdy|https://github.com/kdylsky|
-|김동규|https://github.com/ehdrb92|https://github.com/ehdrb92|
+|김동규|https://velog.io/@ehdrb92|https://github.com/ehdrb92|
 |손찬규|https://velog.io/@schk9611|https://github.com/schk9611|
 |안상현|||
 |황유정|https://xoxowo.tistory.com/|https://github.com/xoxowo|
