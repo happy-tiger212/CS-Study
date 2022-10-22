@@ -18,9 +18,7 @@
 3. LAN (Local Area Network)
     근거리 통신망을 의미, 건물과같은 좁은 공간에서 운영, 전송 속도가 빠르고 혼잡하지 않다.
 
-혼잡도 (적음)       (많음)
-        LAN < MAN < WAN
 
-전송 속도 (빠름)        (느림)
-        LAN > MAN > WAN
+혼잡도 (적음) LAN < MAN < WAN (많음)
 
+전송 속도 (빠름) LAN > MAN > WAN (느림)
