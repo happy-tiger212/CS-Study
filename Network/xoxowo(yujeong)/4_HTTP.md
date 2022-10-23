@@ -12,6 +12,9 @@
 * 패킷 : 정보 기술에서 패킷 방식의 컴퓨터 네트워크가 전달하는 데이터의 형식화된 블록. 패킷은 제어 정보와 사용자 데이터로 이루어지며, 이는 페이로드라고도 한다.
 * RTT : 패킷이 목적지에 도달하고나서 다시 출발지로 돌아오기까지 걸리는 시간 (≒패킷 왕복 시간)
 
+---
+
+
 ### HTTP/1.1
 HTTP/1.0에서 발전
 
@@ -19,6 +22,7 @@ HTTP/1.0에서 발전
 
 헤더에 쿠키 등 많은 메타데이터가 들어있고 압축되지 않아 무거운 헤더 구조를 가지고 있다.
 
+---
 
 
 ### HTTP/2
@@ -30,14 +34,26 @@ HTTP/2는 HTTP/1.x 보다 지연시간을 줄이고 응답시간을 빠르게 �
 * 멀티플랙싱 : 여러개의 스트림(데이터 흐름)을 사용하여 송수신함 
 * 서버 푸시 : HTTP/1.1에서는 클라이언트가 서버에 요청해야 파일을 다운받을 수 있었지만, HTTP/2에서는 요청없이 서버가 바로 리소스를 푸시할 수 있음.
 
+---
 
 
 ### HTTPS 
 애플리케이션 계층과 전송 계층사이에 신뢰 계층인 SSL/TLS을 넣은 신뢰할 수 있는 HTTP요청
+* SSL/TLS(Secure Socket Layer)/(Transport Layer Security Protocol) : 보안을 제공하는 프로토콜. 제 3자가 메세지를 도청하거나 변조하지 못하도록 함.
 
 <img src="https://user-images.githubusercontent.com/26598542/69895505-6f243780-1374-11ea-9f14-c608d2f35e5a.png">
 이미지 출처 - https://ideveloper2.dev/blog/2019-11-30--%EB%B3%B4%EC%95%88-http/
 
+---
 
 
-* SSL/TLS(Secure Socket Layer)/(Transport Layer Security Protocol) : 보안을 제공하는 프로토콜. 제 3자가 메세지를 도청하거나 변조하지 못하도록 함.
+### HTTP/3
+HTTP의 세 번째 버전 
+
+QUIC 계층에서 돌아감
+
+UDP(먼저도착하는 대로 순서가 마음대로)기반으로 돌아감.
+
+HTTP/2.0과 마찬가지로 멀티플랙싱 지원하며 초기 연결 설정 시 지연시간이 감소됨
+
+* QUIC(Quick UDP Internet Connections) :
