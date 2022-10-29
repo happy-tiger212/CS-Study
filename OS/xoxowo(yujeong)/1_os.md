@@ -1,26 +1,26 @@
-### 운영 체제 (Operating system)
-    사용자가 쉽게 컴퓨터를 사용할 수 있도록 해주는 인터페이스(interface)
+## 운영 체제 (Operating system)
+사용자가 쉽게 컴퓨터를 사용할 수 있도록 해주는 인터페이스(interface)
 
-    한정된 메모리와 시스템 자원을 효율적으로 분배하게 해주는 일꾼
+한정된 메모리와 시스템 자원을 효율적으로 분배하게 해주는 일꾼
 
 
 # OS 구조
 
 유저 프로그램
 
-GUI (Graphial user interface) 
+**GUI (Graphial user interface)**
 
-시스템 콜 (≒ 시스템 호출)
+**시스템 콜 (≒ 시스템 호출)**
 
-커널
+**커널**
 
-드라이버
+**드라이버**
 
-하드웨어
+**하드웨어**
 
 구조로 되어있으며 GUI 부터 드라이버까지 운영체제(OS)를 지칭한다.
 
-참고 : GUI가 없고 CUI만 있는 리눅스 서버도 있다. (CUI Charctor user interface)
+* 참고로 GUI가 없고 CUI만 있는 리눅스 서버도 있다. (CUI Charctor user interface)
 
 
 
