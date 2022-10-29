@@ -12,7 +12,7 @@
 
 ### 처리량
 **처리량(throughput)**: 링크를 통해 전달되는 단위 시간당 데이터양(단위: bps(bit per second)) 
-<img src="https://user-images.githubusercontent.com/91110192/197130510-3a527ba3-a22e-4289-90fe-eaead56ca97c.png" width="50%">  
+<img src="https://user-images.githubusercontent.com/91110192/197130510-3a527ba3-a22e-4289-90fe-eaead56ca97c.png" width="30%">  
 _대역폭: 주어진 시간 동안 네트워크 연결을 통해 흐를 수 있는 최대 비트 수  
 트래픽: 네트워크 장치에 일정시간 내에 흐르는 데이터 양_
 
