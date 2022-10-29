@@ -6,8 +6,8 @@
 
 ## OS 구조
 
-<img src="https://velog.velcdn.com/images/hagyoung99/post/1ec717d0-7ff2-4d0f-8792-1564f326edf2/image.png">
-이미지 출처 - 
+<img src="https://velog.velcdn.com/images/hagyoung99/post/1ec717d0-7ff2-4d0f-8792-1564f326edf2/image.png" width="40%">
+이미지 출처 - 면접을 위한 cs 지식노트 
 
 위 구조로 되어있으며 GUI 부터 드라이버까지 운영체제(OS)를 지칭한다.
 
