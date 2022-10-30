@@ -6,7 +6,7 @@
 
 ### OS 구조
 
-<img src="https://velog.velcdn.com/images/hagyoung99/post/1ec717d0-7ff2-4d0f-8792-1564f326edf2/image.png" width="40%"> 이미지 출처 - 면접을 위한 cs 지식노트 
+<img src="https://velog.velcdn.com/images/hagyoung99/post/1ec717d0-7ff2-4d0f-8792-1564f326edf2/image.png" width=40%> 이미지 출처 - 면접을 위한 cs 지식노트 
 
 위 구조로 되어있으며 GUI 부터 드라이버까지 운영체제(OS)를 지칭한다. 참고로 GUI가 없고 CUI만 있는 리눅스 서버도 있다.(CUI Charctor user interface)
 
