@@ -71,7 +71,8 @@
 * 메타 데이터 : 데이터에 관한 구조화된 데이터이며 데이터를 설명하는 작은 데이터
 
 #### PCB의 구조
-
 <img src="https://woovictory.github.io/img/PCB_os.png">
+
+
 
 
