@@ -2,10 +2,7 @@
     사용자가 쉽게 컴퓨터를 사용할 수 있도록 해주는 인터페이스(interface)
     한정된 메모리와 시스템 자원을 효율적으로 분배하게 해주는 일꾼
 
-
-
 ### OS 구조
-
 <img src="https://velog.velcdn.com/images/hagyoung99/post/1ec717d0-7ff2-4d0f-8792-1564f326edf2/image.png" width=40%> 이미지 출처 - 면접을 위한 cs 지식노트 
 
 위 구조로 되어있으며 GUI 부터 드라이버까지 운영체제(OS)를 지칭한다. 참고로 GUI가 없고 CUI만 있는 리눅스 서버도 있다.(CUI Charctor user interface)
