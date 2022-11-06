@@ -9,4 +9,5 @@
     NoSQL (Not Only SQL) 슬로건에서 생겨난 데이터베이스이다.
     SQL 언어를 사용하지 않는 데이터베이스를 말하며 대표적으로 MongoDB, redis가 있다.
 
-    이 MongoDB는 json을 통해 Data에 접근한다
+    이 MongoDB는 json을 통해 Data에 접근한다.
+    
