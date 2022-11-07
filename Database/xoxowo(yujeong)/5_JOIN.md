@@ -11,7 +11,26 @@
 <img src="https://i.ibb.co/0skHY82/2022-02-24-6-58-10.png">
 
 #### 내부조인 (inner join)
-    
+    내부 조인은 두 테이블 간의 **교집합**을 나타낸다.
+
+```SQL
+SELECT * FROM TableA A
+INNER JOIN TableB B ON
+A.key = B.key
+```
+
+
 #### 왼쪽 조인 (left outer join)
+    왼쪽 조인은 테이블 B의 일치하는 부분의 레코드와 함께 테이블 A를 기준으로 완전한 코드 집합을 생성한다.
+    만약 테이블 B에 일치하는 항목이 없으면 해당 값은 null 값이 된다.
+
+```SQL
+SELECT * FROM TableA A
+LEFT JOIN TableB B ON
+A.key = B.key
+```
+
+
 #### 오른쪽 조인 (right outer join)
+
 #### 합집합 조인 (full outer join)
